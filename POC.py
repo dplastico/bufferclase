@@ -13,7 +13,7 @@ try:
     print s.recv(1024)
     s.close()
 except:
-    print "no connection to server"
+    print "no hay conexion al servidor"
 
 
 
